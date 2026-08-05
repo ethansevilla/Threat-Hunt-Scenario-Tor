@@ -75,9 +75,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: William Olega
-- **Author Contact**: https://www.linkedin.com/in/williamolega/
-- **Date**: November 9, 2025
+- **Author Name**: Ethan Sevilla
+- **Author Contact**: https://www.linkedin.com/in/ethan-sevilla-6540b6150/
+- **Date**: August 4, 2026
 
 ## Validated By:
 - **Reviewer Name**: 
